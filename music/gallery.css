@@ -1,0 +1,27 @@
+.empty-section{
+    block-size: 10%;
+}
+
+#real-h1 {
+    text-align: center;
+    background-color: rgb(218, 37, 83);
+}
+
+body, html {
+    height: 100%;
+}
+
+.image-container{
+    text-align: center;
+}
+
+.image-container img {
+    display: inline-block;
+    margin: 0 10px;
+    height: 500px;
+    width: 600px;
+}
+
+.home-button{
+    text-align: center;
+}
